@@ -42,6 +42,7 @@
 ## 📫 About Me
 
 - GitHub: https://github.com/liupx
+- HomePage: https://www.liupx.com/
 - 专注 AI 工程实践与工具链建设
 - 欢迎交流 / 合作 / Issue / PR
 
