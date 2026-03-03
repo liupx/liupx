@@ -17,6 +17,8 @@
 
 - **[langchain_langsmith_demo](https://github.com/liupx/langchain_langsmith_demo)**  
   集成 LangSmith 的 Agent 示例，包含对话记录与可观测性实践。
+- **[langchain_react_agent_demo](https://github.com/liupx/langchain_react_agent_demo)**  
+  一个典型的 **ReAct (Reason + Act) Agent** 实现，使用 LangGraph 框架，演示如何让 LLM 调用工具并形成循环。
 
 ---
 
