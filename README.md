@@ -7,7 +7,7 @@
 
 ## ⭐ 公开项目一览
 
-### 🤖 AI Agent & LLM 示例
+### 🤖 AI Agent & LLM 示例(新人友好的AI Agent教程)
 
 - **[openai_demo_first](https://github.com/liupx/openai_demo_first)**  
   最小化 Python Agent 示例，演示如何调用 OpenAI 兼容接口并实现对话。
