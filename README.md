@@ -7,11 +7,10 @@
 
 ## ⭐ 公开项目一览
 
-### 🤖 AI Agent & LLM 示例(新人友好的AI Agent教程)
+### 🤖 新人友好的AI Agent 示例项目&教程 🚀
 
 - **[openai_demo_first](https://github.com/liupx/openai_demo_first)**  
-  最小化 Python Agent 示例，演示如何调用 OpenAI 兼容接口并实现对话。
-
+  最小化 Python Agent 示例，演示如何调用 OpenAI 兼容接口并实现对话。  
 - **[langchain_demo_first](https://github.com/liupx/langchain_demo_first)**  
   基于 LangChain 的快速入门 Demo，适合学习与实践。  
 - **[langchain_langsmith_demo](https://github.com/liupx/langchain_langsmith_demo)**  
