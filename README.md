@@ -13,12 +13,13 @@
   最小化 Python Agent 示例，演示如何调用 OpenAI 兼容接口并实现对话。
 
 - **[langchain_demo_first](https://github.com/liupx/langchain_demo_first)**  
-  基于 LangChain 的快速入门 Demo，适合学习与实践。
-
+  基于 LangChain 的快速入门 Demo，适合学习与实践。  
 - **[langchain_langsmith_demo](https://github.com/liupx/langchain_langsmith_demo)**  
   集成 LangSmith 的 Agent 示例，包含对话记录与可观测性实践。
 - **[langchain_react_agent_demo](https://github.com/liupx/langchain_react_agent_demo)**  
-  一个典型的 **ReAct (Reason + Act) Agent** 实现，使用 LangGraph 框架，演示如何让 LLM 调用工具并形成循环。
+  一个典型的 **ReAct (Reason + Act) Agent** 实现，使用 LangGraph 框架，演示如何让 LLM 调用工具并形成循环。  
+- **[langchain_memory_demo](https://github.com/liupx/langchain_memory_demo)**  
+  一个展示 LangGraph 长短期记忆机制的 AI 助手 Demo，可持久化对话历史和用户偏好设置。  
 
 ---
 
