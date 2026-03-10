@@ -19,7 +19,7 @@
   一个典型的 **ReAct (Reason + Act) Agent** 实现，使用 LangGraph 框架，演示如何让 LLM 调用工具并形成循环。  
 - **[langchain_memory_demo](https://github.com/liupx/langchain_memory_demo)**  
   一个展示 LangGraph 长短期记忆机制的 AI 助手 Demo，可持久化对话历史和用户偏好设置。
-- **[langchain_rag_demo](https://github.com/liupx/langchain_rag_demo)
+- **[langchain_rag_demo](https://github.com/liupx/langchain_rag_demo)**  
   一个面向初学者的 RAG（检索增强生成）演示项目，通过 LangChain 完整展示文档加载、分块、向量化、检索和生成的完整流程。   
 
 ---
