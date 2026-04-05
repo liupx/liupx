@@ -4,7 +4,7 @@
 
 ## 🧰 工具
 ### 🐾 pupkit
-- **[pupkit-cli](https://github.com/pupkit-labs/pupkit-cli)**
+- **[pupkit-cli](https://github.com/pupkit-labs/pupkit-cli)**  
   pupkit 是一个以 welcome 为核心的 CLI 工具，用来在终端里快速展示本机环境信息和 AI 使用概览。
 <br>
 <br>
