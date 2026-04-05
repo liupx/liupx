@@ -1,12 +1,13 @@
 # 👋 Hi, I'm liupx
 
 欢迎来到我的 GitHub 主页 👨‍💻  
-这里主要记录我在 AI / Agent / 自动化方向的学习与工程实践项目。
 
 ## 🧰 工具
 ### 🐾 pupkit
 - **[pupkit-cli](https://github.com/pupkit-labs/pupkit-cli)**
   pupkit 是一个以 welcome 为核心的 CLI 工具，用来在终端里快速展示本机环境信息和 AI 使用概览。
+<br>
+<br>
 
 ## ⭐ 教程
 ### 🤖 新人友好的AI Agent 示例项目&教程 🚀
@@ -22,7 +23,9 @@
 - **[langchain_memory_demo](https://github.com/liupx/langchain_memory_demo)**  
   一个展示 LangGraph 长短期记忆机制的 AI 助手 Demo，可持久化对话历史和用户偏好设置。
 - **[langchain_rag_demo](https://github.com/liupx/langchain_rag_demo)**  
-  一个面向初学者的 RAG（检索增强生成）演示项目，通过 LangChain 完整展示文档加载、分块、向量化、检索和生成的完整流程。   
+  一个面向初学者的 RAG（检索增强生成）演示项目，通过 LangChain 完整展示文档加载、分块、向量化、检索和生成的完整流程。
+<br>
+<br>
 
 ## 📌 技术方向
 
@@ -33,8 +36,8 @@
 - ⚙️ LangChain / LangSmith
 - ☕ Java + AI 协议集成
 - 🚀 工程化落地实践
-
----
+<br>
+<br>
 
 ## 📫 About Me
 
